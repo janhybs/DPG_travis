@@ -11,4 +11,4 @@ script:
   - coverage run info.py
   
 after_success:
-  coveralls -t YcXkK6dd96zem25nOrsOUeyc4ozpzI0HF
+  COVERALLS_REPO_TOKENYcXkK6dd96zem25nOrsOUeyc4ozpzI0HF =coveralls
