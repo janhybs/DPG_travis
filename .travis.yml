@@ -11,4 +11,4 @@ script:
   - coverage run info.py
   
 after_success:
-  coveralls
+  coveralls -t YcXkK6dd96zem25nOrsOUeyc4ozpzI0HF
